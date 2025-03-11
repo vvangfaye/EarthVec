@@ -5,7 +5,7 @@ A repository for vectorizing Earth remote sensing imagery, featuring datasets, m
 
 ## Overview
 
-EarthVec aims to provide a repo for interpreting remote sensing imagery into vector formats, including polygons(such as building) and lines(such as road). This project integrates state-of-the-art vectorization methods and datasets, with a focus on practical deployment solutions for geospatial applications.
+EarthVec aims to provide a repo for interpreting remote sensing imagery into vector formats, including polygons(such as building) and lines(such as road).
 
 Currently under active development, EarthVec is starting with initial support for selected methods and datasets, with plans to expand its capabilities over time.
 
