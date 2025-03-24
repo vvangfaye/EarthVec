@@ -7,11 +7,11 @@ Currently under active development, EarthVec is starting with initial support fo
 
 ## Roadmap
 Polygon vectorization methods and datasets are the initial focus of EarthVec. The following features are planned for future releases:
+
 - [x] Add [HoliTracer](https://www.github.com/vvangfaye/HoliTracer) method.
-- [x] Support large-size image training and inference.
-- [x] Support raster formats with coordinate information.
+- [ ] Reconstructed dataloader module to support training and inference with coordinates and large images (coming soon).
 - [ ] Improve documentation and usage processes (coming soon).
-- [ ] Add [Hisup](https://github.com/SarahwXU/HiSup), [FFL](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning) methods (coming soon).
+- [ ] Add [Hisup](https://github.com/SarahwXU/HiSup), [FFL](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning) methods.
 - [ ] Support patch-based datasets, and more methods.
 - [ ] Add deployment tools and scripts.
 
